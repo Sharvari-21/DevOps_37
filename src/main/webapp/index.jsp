@@ -20,7 +20,7 @@
     <tr>
       <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Kaustubh</td>
       <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">45</td>
-      <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Marketing Manager</td>
+      <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Data Engineer</td>
     </tr>
   </table>
   
